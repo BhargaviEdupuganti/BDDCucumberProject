@@ -95,6 +95,9 @@ reports/
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.idea/**/compiler.xml
+.idea/**/jarRepositories.xml
+.idea/libraries
 
 # Gradle
 .idea/**/gradle.xml
